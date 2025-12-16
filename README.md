@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" alt="hi" width="30">   I'm Shaharia Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img src="https://i.pinimg.com/originals/a5/3a/2b/a53a2b34d2d16fffe38c4b90ebcdcb0f.gif" alt="coding" width="400" align="right">
+<img src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="coding" width="350" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaharia4455&label=Profile%20views&color=0e75b6&style=flat" alt="shaharia4455" /> </p>
 
 - 🌱 I’m currently learning **about tech-related staff 💫**
@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shaharia4455&show_icons=true&locale=en" alt="shaharia4455" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaharia4455&" alt="shaharia4455" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaharia4455&" alt="Shaharia4455" /></p>
