@@ -1,4 +1,4 @@
-![logo](https://github.com/Shaharia4455/Shaharia4455/blob/main/Black%20and%20Teal%20Modern%20Web%20Developer%20Presentation%20(1).png)
+![logo](https://github.com/Shaharia4455/Shaharia4455/blob/main/Front-End%20Developer%20%20Building%20Fast%20Modern%20Web%20page%20(1).png)
 <h1 align="center">Hi <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" alt="hi" width="30">   I'm Shaharia Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
