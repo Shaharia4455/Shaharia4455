@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/shaharia.islam.76275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shaharia.islam.76275" height="30" width="40" /></a>
-<a href="https://shaharia4455.github.io/My-Portfolio-Website/" target="blank"><img align="center" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfY3xNi52oJKnFFi1yzP6dZ71N6LRiNLXI9g&s](https://cdn-icons-png.freepik.com/256/10003/10003015.png?semt=ais_white_label)" alt="https://www.facebook.com/shaharia.islam.76275" height="38" width="40" /></a>
+<a href="https://shaharia4455.github.io/My-Portfolio-Website/" target="blank"><img align="center" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfY3xNi52oJKnFFi1yzP6dZ71N6LRiNLXI9g&s"](https://cdn-icons-png.freepik.com/256/10003/10003015.png?semt=ais_white_label)" alt="https://www.facebook.com/shaharia.islam.76275" height="38" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
